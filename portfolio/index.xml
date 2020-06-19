@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on AUTMTN - Intelligence d&#39;Affaires</title>
+    <link>https://autmtn.ca/portfolio/</link>
+    <description>Recent content in Portfolios on AUTMTN - Intelligence d&#39;Affaires</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <lastBuildDate>Sat, 28 Mar 2020 16:59:54 +0600</lastBuildDate>
+    
+	<atom:link href="https://autmtn.ca/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Développement RPA</title>
+      <link>https://autmtn.ca/portfolio/caramel-bottle/</link>
+      <pubDate>Sat, 28 Mar 2020 16:59:54 +0600</pubDate>
+      
+      <guid>https://autmtn.ca/portfolio/caramel-bottle/</guid>
+      <description>Informations sur l&amp;rsquo;RPA L&amp;rsquo;RPA (automatisation de processus robotique) est une technologie qui permet de configurer un logiciel informatique de manière à ce qu&amp;rsquo;un &amp;ldquo;robot&amp;rdquo; imite et intègre les actions d&amp;rsquo;un être humain interagissant avec les systèmes numériques pour exécuter un ou plusieurs processus.
+Le RPA est-il différent des autres outils d&amp;rsquo;automatisation?  L&amp;rsquo;RPA permet aux entreprises d&amp;rsquo;automatiser à une fraction du coût et prend beaucoup moins de temps à mettre en œuvre.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;Intelligence d&#39;Affaires</title>
+      <link>https://autmtn.ca/portfolio/shopping-bag-concept/</link>
+      <pubDate>Wed, 11 Mar 2020 16:58:55 +0600</pubDate>
+      
+      <guid>https://autmtn.ca/portfolio/shopping-bag-concept/</guid>
+      <description>Qu&amp;rsquo;est-ce que l&amp;rsquo;Intelligence d&amp;rsquo;Affaires? La BI (Business Intelligence) exploite un assortiment de logiciels et de services spécifiques pour transformer les données d&amp;rsquo;une organisation en informations exploitables menant à des décisions commerciales mieux informées. Les outils de BI rassemblent les données de leurs sources, aident à analyser lesdits ensembles de données pour découvrir les résultats analytiques à présenter dans des graphiques, des rapports, des résumés, etc. pour fournir à l&amp;rsquo;organisation des informations détaillées facilitant la prise de décision ou un aperçu de son état actuel.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Excel</title>
+      <link>https://autmtn.ca/portfolio/makeup-element/</link>
+      <pubDate>Sun, 12 Jan 2020 16:57:54 +0600</pubDate>
+      
+      <guid>https://autmtn.ca/portfolio/makeup-element/</guid>
+      <description>Ce que nous proposons via Microsoft Excel: Notre entreprise propose des services liés à Excel, qu&amp;rsquo;il s&amp;rsquo;agisse de combler l&#39;écart entre différentes sources de données pour filtrer les données fusionnées en aidant à résoudre les problèmes commerciaux ou de concevoir des MACROS en utilisant sa langage logiciel (VBA).
+ Déterminer, analyser et améliorer les objectifs stratégiques de votre entreprise. Calcul des rapports de profits et pertes de votre entreprise ou département.</description>
+    </item>
+    
+    <item>
+      <title>Conseils Informatique</title>
+      <link>https://autmtn.ca/portfolio/dew-drop/</link>
+      <pubDate>Sat, 12 Oct 2019 16:53:54 +0600</pubDate>
+      
+      <guid>https://autmtn.ca/portfolio/dew-drop/</guid>
+      <description>Conseils Informatique Une grande quantité de services informatiques peuvent être fournis par AUTMTN, du dépannage logiciel et des projets liés au réseau aux systèmes téléphoniques et à l&amp;rsquo;hébergement Web. Expérimenté et professionnel, notre personnel peut évaluer les besoins de votre organisation et élaborer un plan d&amp;rsquo;action.
+ Installation et dépannage de logiciels. Gestion des appareils mobiles (MDM) pour les appareils mobiles de votre entreprise. Services de réparation de matériel. Sauvegardes et hébergement cloud.</description>
+    </item>
+    
+    <item>
+      <title>Administration des Bases de Données</title>
+      <link>https://autmtn.ca/portfolio/bottle-mockup/</link>
+      <pubDate>Fri, 12 Jul 2019 16:54:54 +0600</pubDate>
+      
+      <guid>https://autmtn.ca/portfolio/bottle-mockup/</guid>
+      <description>Informations sur l&amp;rsquo;Administration de la Base de Données L&amp;rsquo;administration de la base de données est la fonction de gestion et de maintenance des logiciels de systèmes de gestion de base de données (SGBD) tels que Oracles, Microsoft SQL Server et IBM DB2 qui nécessitent une gestion continue. Les services d&amp;rsquo;administration incluent la mise en œuvre d&amp;rsquo;une base de données correctement conçue ainsi que le maintien de sa sécurité à l&amp;rsquo;aide de fonctionnalités intégrées.</description>
+    </item>
+    
+    <item>
+      <title>Développement de logiciels</title>
+      <link>https://autmtn.ca/portfolio/table-design/</link>
+      <pubDate>Thu, 12 Jul 2018 16:56:54 +0600</pubDate>
+      
+      <guid>https://autmtn.ca/portfolio/table-design/</guid>
+      <description>Développement de logiciels Poussée par notre amour pour le code et notre désir d&amp;rsquo;avoir un impact positif sur nos clients à travers les produits développés, notre expertise s&#39;étend de la conception et du développement complets des logiciels à la mise à jour des applications Web et mobiles existantes.</description>
+    </item>
+    
+  </channel>
+</rss>
